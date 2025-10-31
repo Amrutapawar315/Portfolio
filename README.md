@@ -24,7 +24,3 @@ The website is designed to reflect my passion for **web development, database ma
 
 ---
 
-## 🚀 How to Run Locally
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/Amrutapawar315/Portfolio.git
